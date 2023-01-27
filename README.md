@@ -1,4 +1,4 @@
-# Sklearn-SVM
+# SKLearn-SVM
 
 Support Vector Machine (SVM) is a supervised learning algorithm that can be used to solve classification, regression, and outlier detection problems.
 
